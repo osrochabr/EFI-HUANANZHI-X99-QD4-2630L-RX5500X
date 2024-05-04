@@ -23,7 +23,7 @@
 
 ## Informações detalhadas de configuração
 
-1. [EFI Básica](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E-PUBLIC) 
+1. [EFI Básica](https://github.com/luchina-gabriel/EFI-HUANANZHI-X99-QD4-2630L-RX5500XT) 
    
-2. [EFI Detalhada](https://github.com/luchina-gabriel/EFI-HUANANZHI-X99-QD4-2630L-RX5500XT)
+2. [EFI Detalhada]( https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E-PUBLIC)
  
